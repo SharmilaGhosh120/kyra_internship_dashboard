@@ -1,0 +1,2 @@
+#!/bin/bash
+streamlit run kyra_internship_dashboard.py
